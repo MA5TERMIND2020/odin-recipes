@@ -1,0 +1,11 @@
+* {
+    color: blue;
+    background-color: aquamarine;
+    font-weight: 500;
+    font-family: copperplate, 'Times New Roman'
+}
+
+.img {
+    height: auto;
+    width: 600px
+}
