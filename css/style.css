@@ -1,8 +1,11 @@
 * {
     color: blue;
-    background-color: aquamarine;
     font-weight: 500;
     font-family: copperplate, 'Times New Roman'
+}
+
+body {
+    background-image:url(../img/background.jpeg);
 }
 
 .img {
